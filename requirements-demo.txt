@@ -1,0 +1,2 @@
+# Only needed for the optional SQLite demonstration-data script.
+bcrypt>=4.0,<6.0
